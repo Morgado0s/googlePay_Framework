@@ -10,7 +10,7 @@ setup(
         "dataclasses",
         "typing-extensions"
     ],
-    author="Seu Nome",
+    author="Gabriel Morgado",
     description="Framework Python para integração com Google Pay",
     python_requires=">=3.7",
     classifiers=[
